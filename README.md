@@ -1,3 +1,5 @@
+# WARNING: This must only be used in development enviroments!!!
+# In production envs the databases must be created manually
 # Using multiple databases with the official PostgreSQL Docker image
 
 The [official recommendation](https://hub.docker.com/_/postgres/) for creating
